@@ -26,6 +26,25 @@ $ git config --global user.name "John Doe"
 
 $ git config --global user.email johndoe@example.com
 
+Use the -m on the git commits
+-----------------------------
+
+$ git commit -a -m "My commit message"
+
+Otherwise you will need a editor configured - we can skip that for now
+
+In-Class Goals
+--------------
+
+* Install git
+* Make a github account
+* Do a "git clone" to clone the class repo
+* Do a "git pull" to get new information
+* Be added as a collaborator to the class github
+* Make a folder, add a file to the folder
+* Do a "git add -m 'Message'"
+* Do a "git push"  (May require a few "git pulls")
+
 Here are some resources
 -----------------------
 
