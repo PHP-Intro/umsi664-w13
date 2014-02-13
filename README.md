@@ -19,6 +19,12 @@ Make a github Account
 To save time in class make a github account before you come to class to 
 particpate in the in-class git activity.
 
+Our Google Doc for Github Names
+-------------------------------
+
+<a href="https://docs.google.com/document/d/1mMoH_u1vK32IXXTiXGfTAZPCoBRZUGzpScIiR2_kvgo/edit?usp=sharing" target="_new>Google Doc</a>
+
+
 Configure Global Git Settings
 -----------------------------
 
