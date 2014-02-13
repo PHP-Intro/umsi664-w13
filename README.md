@@ -43,9 +43,10 @@ In-Class Goals
 --------------
 
 * Install git
-* Make a github account
-* Do a "git clone" to clone the class repo
+* Do a "git clone https://github.com/PHP-Intro/umsi664-w13.git" to clone 
+the class repo
 * Do a "git pull" to get new information
+* Make a github account
 * Be added as a collaborator to the class github
 * Make a folder, add a file to the folder
 * Do a "git add -m 'Message'"
