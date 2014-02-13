@@ -22,7 +22,7 @@ particpate in the in-class git activity.
 Our Google Doc for Github Names
 -------------------------------
 
-<a href="https://docs.google.com/document/d/1mMoH_u1vK32IXXTiXGfTAZPCoBRZUGzpScIiR2_kvgo/edit?usp=sharing" target="_new>Google Doc</a>
+<a href="https://docs.google.com/document/d/1mMoH_u1vK32IXXTiXGfTAZPCoBRZUGzpScIiR2_kvgo/edit?usp=sharing" target="_new">Google Doc</a>
 
 
 Configure Global Git Settings
