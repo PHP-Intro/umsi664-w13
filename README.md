@@ -13,11 +13,6 @@ Install git
   than *Use Git Bash only*. 
   (<a href="00-images/01-windows-install.png" target="_blank">Image</a>)
 
-Etherpad for Class
-------------------
-
-* http://titanpad.com/RkYrZvOLKN
-
 Make a github Account
 ---------------------
 
